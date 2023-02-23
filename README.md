@@ -88,7 +88,7 @@ most used s-s-sociaw things >~< xoxox</p>
 <hr>
 </div>
     <p align="center" >  
-  <a href="https://github.com/snpsujon"> 
+  <a href="https://github.com/jewel-talukder"> 
 <img  src="https://github-readme-stats.vercel.app/api?username=jewel-talukder&&show_icons=true&theme=radical&count_private=true"/>
   </a>
   </p>
