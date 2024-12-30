@@ -77,7 +77,7 @@ I am also very good at WordPress Customization. And I am good at writing Guides 
 <p align="center">Here some of my <br>
 most used s-s-sociaw things >~< xoxox</p>
 
-<p align="center"> <a href="https://facebook.com/rjs.jewel.talukder" target="_blank"><img src="https://img.shields.io/badge/Jewel Talukder-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"/></a> <a href="https://www.linkedin.com/in/jewel-talukder-86b597235" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Jewel Talukder-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a></p>
+<p align="center"> <a href="https://web.facebook.com/Jewel.Talukder.1977" target="_blank"><img src="https://img.shields.io/badge/Jewel Talukder-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"/></a> <a href="https://www.linkedin.com/in/jewel-talukder-86b597235" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Jewel Talukder-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a></p>
 </div>
 <br>
 <div>
